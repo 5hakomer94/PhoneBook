@@ -1,0 +1,6 @@
+E:\درس\کهکشان\CSharp\Projects\PhoneBook\Phonebook\bin\Debug\Phonebook.exe.config
+E:\درس\کهکشان\CSharp\Projects\PhoneBook\Phonebook\bin\Debug\Phonebook.exe
+E:\درس\کهکشان\CSharp\Projects\PhoneBook\Phonebook\bin\Debug\Phonebook.pdb
+E:\درس\کهکشان\CSharp\Projects\PhoneBook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+E:\درس\کهکشان\CSharp\Projects\PhoneBook\Phonebook\obj\Debug\Phonebook.exe
+E:\درس\کهکشان\CSharp\Projects\PhoneBook\Phonebook\obj\Debug\Phonebook.pdb
